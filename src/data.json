@@ -1,0 +1,586 @@
+[
+  {
+    "id": 1,
+    "toyName": "Happy Flying Disc",
+    "toyType": "Outdoor",
+    "recommendedAge": 8,
+    "kidRating": 3.7,
+    "giftWrap": false,
+    "arrivedInShop": "2026-06-03",
+    "learning": [
+      "creativity"
+    ],
+    "box": {
+      "boxColor": "Blue",
+      "weightGrams": 305
+    },
+    "toyPhoto": "https://picsum.photos/seed/toy-store-1/400/300",
+    "aboutToy": "Happy Flying Disc weighs about 305 grams, so it is easy to carry."
+  },
+  {
+    "id": 2,
+    "toyName": "Wobbly Castle Blocks",
+    "toyType": "Building Set",
+    "recommendedAge": 8,
+    "kidRating": 1.8,
+    "giftWrap": true,
+    "arrivedInShop": "2026-08-11",
+    "learning": [
+      "reading",
+      "imagination"
+    ],
+    "box": {
+      "boxColor": "Green",
+      "weightGrams": 1150
+    },
+    "toyPhoto": "https://picsum.photos/seed/toy-store-2/400/300",
+    "aboutToy": "Wobbly Castle Blocks weighs about 1150 grams, so it is easy to carry."
+  },
+  {
+    "id": 3,
+    "toyName": "Clever Bubble Wand",
+    "toyType": "Outdoor",
+    "recommendedAge": 12,
+    "kidRating": 4.4,
+    "giftWrap": true,
+    "arrivedInShop": "2025-12-16",
+    "learning": [
+      "teamwork"
+    ],
+    "box": {
+      "boxColor": "Green",
+      "weightGrams": 220
+    },
+    "toyPhoto": "https://picsum.photos/seed/toy-store-3/400/300",
+    "aboutToy": "Clever Bubble Wand is a popular birthday gift."
+  },
+  {
+    "id": 4,
+    "toyName": "Sunny Block Tower",
+    "toyType": "Building Set",
+    "recommendedAge": 8,
+    "kidRating": 4.8,
+    "giftWrap": true,
+    "arrivedInShop": "2025-07-03",
+    "learning": [
+      "reading",
+      "hand skills"
+    ],
+    "box": {
+      "boxColor": "Rainbow",
+      "weightGrams": 1285
+    },
+    "toyPhoto": "https://picsum.photos/seed/toy-store-4/400/300",
+    "aboutToy": "Kids play with Sunny Block Tower for hours."
+  },
+  {
+    "id": 5,
+    "toyName": "Bouncy Maze Cube",
+    "toyType": "Puzzle",
+    "recommendedAge": 10,
+    "kidRating": 4.9,
+    "giftWrap": true,
+    "arrivedInShop": "2025-01-19",
+    "learning": [
+      "imagination",
+      "problem solving",
+      "teamwork"
+    ],
+    "box": {
+      "boxColor": "Blue",
+      "weightGrams": 495
+    },
+    "toyPhoto": "https://picsum.photos/seed/toy-store-5/400/300",
+    "aboutToy": "Kids play with Bouncy Maze Cube for hours."
+  },
+  {
+    "id": 6,
+    "toyName": "Busy Kite",
+    "toyType": "Outdoor",
+    "recommendedAge": 6,
+    "kidRating": 3.4,
+    "giftWrap": true,
+    "arrivedInShop": "2026-07-19",
+    "learning": [
+      "counting",
+      "creativity"
+    ],
+    "box": {
+      "boxColor": "Pink",
+      "weightGrams": 55
+    },
+    "toyPhoto": "https://picsum.photos/seed/toy-store-6/400/300",
+    "aboutToy": "Kids play with Busy Kite for hours."
+  },
+  {
+    "id": 7,
+    "toyName": "Magic Shape Puzzle",
+    "toyType": "Puzzle",
+    "recommendedAge": 6,
+    "kidRating": 4.7,
+    "giftWrap": true,
+    "arrivedInShop": "2025-03-08",
+    "learning": [
+      "imagination",
+      "hand skills"
+    ],
+    "box": {
+      "boxColor": "Orange",
+      "weightGrams": 695
+    },
+    "toyPhoto": "https://picsum.photos/seed/toy-store-7/400/300",
+    "aboutToy": "Magic Shape Puzzle helps children learn while they play."
+  },
+  {
+    "id": 8,
+    "toyName": "Wobbly Bubble Wand",
+    "toyType": "Outdoor",
+    "recommendedAge": 4,
+    "kidRating": 2.2,
+    "giftWrap": true,
+    "arrivedInShop": "2025-07-05",
+    "learning": [
+      "counting",
+      "imagination",
+      "teamwork"
+    ],
+    "box": {
+      "boxColor": "Rainbow",
+      "weightGrams": 225
+    },
+    "toyPhoto": "https://picsum.photos/seed/toy-store-8/400/300",
+    "aboutToy": "Wobbly Bubble Wand is in our outdoor corner and comes in a rainbow box."
+  },
+  {
+    "id": 9,
+    "toyName": "Happy Shape Puzzle",
+    "toyType": "Puzzle",
+    "recommendedAge": 4,
+    "kidRating": 3.8,
+    "giftWrap": true,
+    "arrivedInShop": "2026-08-06",
+    "learning": [
+      "creativity",
+      "shapes",
+      "reading",
+      "balance"
+    ],
+    "box": {
+      "boxColor": "Pink",
+      "weightGrams": 415
+    },
+    "toyPhoto": "https://picsum.photos/seed/toy-store-9/400/300",
+    "aboutToy": "Happy Shape Puzzle is a popular birthday gift."
+  },
+  {
+    "id": 10,
+    "toyName": "Cozy Block Tower",
+    "toyType": "Building Set",
+    "recommendedAge": 8,
+    "kidRating": 4.6,
+    "giftWrap": true,
+    "arrivedInShop": "2025-11-03",
+    "learning": [
+      "balance"
+    ],
+    "box": {
+      "boxColor": "Navy",
+      "weightGrams": 1290
+    },
+    "toyPhoto": "https://picsum.photos/seed/toy-store-10/400/300",
+    "aboutToy": "Cozy Block Tower weighs about 1290 grams, so it is easy to carry."
+  },
+  {
+    "id": 11,
+    "toyName": "Bouncy Crystal Lab",
+    "toyType": "Science Kit",
+    "recommendedAge": 9,
+    "kidRating": 1.8,
+    "giftWrap": false,
+    "arrivedInShop": "2025-04-19",
+    "learning": [
+      "hand skills",
+      "imagination",
+      "science"
+    ],
+    "box": {
+      "boxColor": "Yellow",
+      "weightGrams": 410
+    },
+    "toyPhoto": "https://picsum.photos/seed/toy-store-11/400/300",
+    "aboutToy": "Parents and kids can enjoy Bouncy Crystal Lab together."
+  },
+  {
+    "id": 12,
+    "toyName": "Busy Magnet Lab",
+    "toyType": "Science Kit",
+    "recommendedAge": 10,
+    "kidRating": 3.3,
+    "giftWrap": true,
+    "arrivedInShop": "2025-03-18",
+    "learning": [
+      "imagination",
+      "shapes",
+      "problem solving"
+    ],
+    "box": {
+      "boxColor": "Pink",
+      "weightGrams": 940
+    },
+    "toyPhoto": "https://picsum.photos/seed/toy-store-12/400/300",
+    "aboutToy": "Busy Magnet Lab is a popular birthday gift."
+  },
+  {
+    "id": 13,
+    "toyName": "Super Rocket Kit",
+    "toyType": "Science Kit",
+    "recommendedAge": 9,
+    "kidRating": 4.4,
+    "giftWrap": true,
+    "arrivedInShop": "2026-04-07",
+    "learning": [
+      "counting"
+    ],
+    "box": {
+      "boxColor": "Yellow",
+      "weightGrams": 990
+    },
+    "toyPhoto": "https://picsum.photos/seed/toy-store-13/400/300",
+    "aboutToy": "Super Rocket Kit is a popular birthday gift."
+  },
+  {
+    "id": 14,
+    "toyName": "Super Bear",
+    "toyType": "Plush",
+    "recommendedAge": 5,
+    "kidRating": 2.2,
+    "giftWrap": true,
+    "arrivedInShop": "2025-06-14",
+    "learning": [
+      "balance",
+      "teamwork"
+    ],
+    "box": {
+      "boxColor": "Yellow",
+      "weightGrams": 245
+    },
+    "toyPhoto": "https://picsum.photos/seed/toy-store-14/400/300",
+    "aboutToy": "Parents and kids can enjoy Super Bear together."
+  },
+  {
+    "id": 15,
+    "toyName": "Happy Bubble Wand",
+    "toyType": "Outdoor",
+    "recommendedAge": 10,
+    "kidRating": 4.6,
+    "giftWrap": false,
+    "arrivedInShop": "2025-03-31",
+    "learning": [
+      "science",
+      "problem solving",
+      "colors",
+      "creativity"
+    ],
+    "box": {
+      "boxColor": "Red",
+      "weightGrams": 310
+    },
+    "toyPhoto": "https://picsum.photos/seed/toy-store-15/400/300",
+    "aboutToy": "Happy Bubble Wand is a popular birthday gift."
+  },
+  {
+    "id": 16,
+    "toyName": "Clever Maze Cube",
+    "toyType": "Puzzle",
+    "recommendedAge": 11,
+    "kidRating": 3.5,
+    "giftWrap": false,
+    "arrivedInShop": "2025-12-30",
+    "learning": [
+      "creativity",
+      "counting"
+    ],
+    "box": {
+      "boxColor": "Purple",
+      "weightGrams": 725
+    },
+    "toyPhoto": "https://picsum.photos/seed/toy-store-16/400/300",
+    "aboutToy": "Clever Maze Cube helps children learn while they play."
+  },
+  {
+    "id": 17,
+    "toyName": "Super Crystal Lab",
+    "toyType": "Science Kit",
+    "recommendedAge": 9,
+    "kidRating": 3.1,
+    "giftWrap": false,
+    "arrivedInShop": "2025-07-02",
+    "learning": [
+      "creativity",
+      "shapes",
+      "hand skills",
+      "science"
+    ],
+    "box": {
+      "boxColor": "Navy",
+      "weightGrams": 675
+    },
+    "toyPhoto": "https://picsum.photos/seed/toy-store-17/400/300",
+    "aboutToy": "Super Crystal Lab weighs about 675 grams, so it is easy to carry."
+  },
+  {
+    "id": 18,
+    "toyName": "Tiny Bear",
+    "toyType": "Plush",
+    "recommendedAge": 4,
+    "kidRating": 3.9,
+    "giftWrap": false,
+    "arrivedInShop": "2026-07-27",
+    "learning": [
+      "teamwork"
+    ],
+    "box": {
+      "boxColor": "Green",
+      "weightGrams": 100
+    },
+    "toyPhoto": "https://picsum.photos/seed/toy-store-18/400/300",
+    "aboutToy": "Tiny Bear is in our plush corner and comes in a green box."
+  },
+  {
+    "id": 19,
+    "toyName": "Super Whale",
+    "toyType": "Plush",
+    "recommendedAge": 3,
+    "kidRating": 3.5,
+    "giftWrap": true,
+    "arrivedInShop": "2026-01-16",
+    "learning": [
+      "colors",
+      "problem solving",
+      "imagination"
+    ],
+    "box": {
+      "boxColor": "Teal",
+      "weightGrams": 475
+    },
+    "toyPhoto": "https://picsum.photos/seed/toy-store-19/400/300",
+    "aboutToy": "Super Whale is in our plush corner and comes in a teal box."
+  },
+  {
+    "id": 20,
+    "toyName": "Clever Castle Blocks",
+    "toyType": "Building Set",
+    "recommendedAge": 7,
+    "kidRating": 3.7,
+    "giftWrap": true,
+    "arrivedInShop": "2025-03-16",
+    "learning": [
+      "counting",
+      "colors"
+    ],
+    "box": {
+      "boxColor": "Green",
+      "weightGrams": 315
+    },
+    "toyPhoto": "https://picsum.photos/seed/toy-store-20/400/300",
+    "aboutToy": "Clever Castle Blocks is in our building set corner and comes in a green box."
+  },
+  {
+    "id": 21,
+    "toyName": "Wobbly Whale",
+    "toyType": "Plush",
+    "recommendedAge": 3,
+    "kidRating": 3.7,
+    "giftWrap": true,
+    "arrivedInShop": "2026-02-06",
+    "learning": [
+      "colors",
+      "problem solving",
+      "balance"
+    ],
+    "box": {
+      "boxColor": "Yellow",
+      "weightGrams": 355
+    },
+    "toyPhoto": "https://picsum.photos/seed/toy-store-21/400/300",
+    "aboutToy": "Wobbly Whale is in our plush corner and comes in a yellow box."
+  },
+  {
+    "id": 22,
+    "toyName": "Bouncy Magnet Lab",
+    "toyType": "Science Kit",
+    "recommendedAge": 8,
+    "kidRating": 4.5,
+    "giftWrap": true,
+    "arrivedInShop": "2025-07-17",
+    "learning": [
+      "imagination",
+      "balance",
+      "hand skills"
+    ],
+    "box": {
+      "boxColor": "Rainbow",
+      "weightGrams": 355
+    },
+    "toyPhoto": "https://picsum.photos/seed/toy-store-22/400/300",
+    "aboutToy": "Bouncy Magnet Lab helps children learn while they play."
+  },
+  {
+    "id": 23,
+    "toyName": "Bouncy Panda",
+    "toyType": "Plush",
+    "recommendedAge": 5,
+    "kidRating": 3.3,
+    "giftWrap": true,
+    "arrivedInShop": "2026-02-18",
+    "learning": [
+      "science",
+      "teamwork",
+      "hand skills"
+    ],
+    "box": {
+      "boxColor": "Blue",
+      "weightGrams": 475
+    },
+    "toyPhoto": "https://picsum.photos/seed/toy-store-23/400/300",
+    "aboutToy": "Parents and kids can enjoy Bouncy Panda together."
+  },
+  {
+    "id": 24,
+    "toyName": "Cozy Brick Set",
+    "toyType": "Building Set",
+    "recommendedAge": 3,
+    "kidRating": 3.3,
+    "giftWrap": true,
+    "arrivedInShop": "2026-01-04",
+    "learning": [
+      "colors",
+      "science",
+      "reading"
+    ],
+    "box": {
+      "boxColor": "Rainbow",
+      "weightGrams": 685
+    },
+    "toyPhoto": "https://picsum.photos/seed/toy-store-24/400/300",
+    "aboutToy": "Cozy Brick Set helps children learn while they play."
+  },
+  {
+    "id": 25,
+    "toyName": "Sunny Jigsaw",
+    "toyType": "Puzzle",
+    "recommendedAge": 3,
+    "kidRating": 4.7,
+    "giftWrap": true,
+    "arrivedInShop": "2025-08-29",
+    "learning": [
+      "balance",
+      "problem solving",
+      "teamwork"
+    ],
+    "box": {
+      "boxColor": "Blue",
+      "weightGrams": 670
+    },
+    "toyPhoto": "https://picsum.photos/seed/toy-store-25/400/300",
+    "aboutToy": "Parents and kids can enjoy Sunny Jigsaw together."
+  },
+  {
+    "id": 26,
+    "toyName": "Wobbly Panda",
+    "toyType": "Plush",
+    "recommendedAge": 1,
+    "kidRating": 4.1,
+    "giftWrap": true,
+    "arrivedInShop": "2026-07-01",
+    "learning": [
+      "imagination",
+      "hand skills",
+      "reading"
+    ],
+    "box": {
+      "boxColor": "Navy",
+      "weightGrams": 445
+    },
+    "toyPhoto": "https://picsum.photos/seed/toy-store-26/400/300",
+    "aboutToy": "Wobbly Panda weighs about 445 grams, so it is easy to carry."
+  },
+  {
+    "id": 27,
+    "toyName": "Rainbow Jigsaw",
+    "toyType": "Puzzle",
+    "recommendedAge": 5,
+    "kidRating": 4.5,
+    "giftWrap": false,
+    "arrivedInShop": "2026-08-22",
+    "learning": [
+      "imagination",
+      "balance"
+    ],
+    "box": {
+      "boxColor": "Yellow",
+      "weightGrams": 705
+    },
+    "toyPhoto": "https://picsum.photos/seed/toy-store-27/400/300",
+    "aboutToy": "Kids play with Rainbow Jigsaw for hours."
+  },
+  {
+    "id": 28,
+    "toyName": "Sunny Jump Rope",
+    "toyType": "Outdoor",
+    "recommendedAge": 3,
+    "kidRating": 4.0,
+    "giftWrap": false,
+    "arrivedInShop": "2026-07-30",
+    "learning": [
+      "reading",
+      "counting"
+    ],
+    "box": {
+      "boxColor": "Navy",
+      "weightGrams": 105
+    },
+    "toyPhoto": "https://picsum.photos/seed/toy-store-28/400/300",
+    "aboutToy": "Sunny Jump Rope helps children learn while they play."
+  },
+  {
+    "id": 29,
+    "toyName": "Busy Volcano Kit",
+    "toyType": "Science Kit",
+    "recommendedAge": 8,
+    "kidRating": 4.3,
+    "giftWrap": true,
+    "arrivedInShop": "2025-03-19",
+    "learning": [
+      "shapes",
+      "science",
+      "teamwork"
+    ],
+    "box": {
+      "boxColor": "Rainbow",
+      "weightGrams": 1015
+    },
+    "toyPhoto": "https://picsum.photos/seed/toy-store-29/400/300",
+    "aboutToy": "Parents and kids can enjoy Busy Volcano Kit together."
+  },
+  {
+    "id": 30,
+    "toyName": "Magic Builder Kit",
+    "toyType": "Building Set",
+    "recommendedAge": 11,
+    "kidRating": 3.8,
+    "giftWrap": false,
+    "arrivedInShop": "2026-02-08",
+    "learning": [
+      "reading",
+      "colors",
+      "hand skills"
+    ],
+    "box": {
+      "boxColor": "Orange",
+      "weightGrams": 1040
+    },
+    "toyPhoto": "https://picsum.photos/seed/toy-store-30/400/300",
+    "aboutToy": "Kids play with Magic Builder Kit for hours."
+  }
+]
